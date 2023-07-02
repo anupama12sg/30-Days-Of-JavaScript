@@ -1,37 +1,37 @@
 # 30 Dias de JavaScript
 
-| # Dia |                                                                       Tópicos                                                                        |
-| ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 01    |                                                             [Introdução](./readMe.md)                                                             |
-| 02    |                                               [Tipos de Dados](./02_Day_Data_types/02_day_data_types.md)                                                |
-| 03    |                             [Booleanos, Operadores, Data](./03_Day_Booleans_operators_date/03_booleans_operators_date.md)                             |
-| 04    |                                            [Condicionais](./04_Day_Conditionals/04_day_conditionals.md)                                             |
-| 05    |                                                     [Arrays](./05_Day_Arrays/05_day_arrays.md)                                                      |
-| 06    |                                                       [Loops](./06_Day_Loops/06_day_loops.md)                                                       |
-| 07    |                                                 [Funções](./07_Day_Functions/07_day_functions.md)                                                 |
-| 08    |                                                    [Objetos](./08_Day_Objects/08_day_objects.md)                                                    |
-| 09    |                             [Higher Order Functions](./09_Day_Higher_order_functions/09_day_higher_order_functions.md)                              |
-| 10    |                                           [Sets and Maps](./10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md)                                           |
-| 11    |                      [Destructuring and Spreading](./11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)                      |
-| 12    |                                  [Expressões Regulares](./12_Day_Regular_expressions/12_day_regular_expressions.md)                                  |
-| 13    |                             [Método Console Objeto](./13_Day_Console_object_methods/13_day_console_object_methods.md)                              |
-| 14    |                                         [Tratamento de Errors](./14_Day_Error_handling/14_day_error_handling.md)                                          |
-| 15    |                                                    [Classes](./15_Day_Classes/15_day_classes.md)                                                    |
-| 16    |                                                        [JSON](./16_Day_JSON/16_day_json.md)                                                         |
-| 17    |                                            [Armazenamento na Web](./17_Day_Web_storages/17_day_web_storages.md)                                             |
-| 18    |                                                  [Promises](./18_Day_Promises/18_day_promises.md)                                                   |
-| 19    |                                                   [Closure](./19_Day_Closures/19_day_closures.md)                                                   |
+| # Dia |                                                                       Tópicos                                                                            |
+| ----- |   :-------------------------------------------------------------------------------------------------------------------------------------------------:    |
+| 01    |                                                             [Introdução](./readMe.md)                                                                    |
+| 02    |                                               [Tipos de Dados](./02_Day_Data_types/02_day_data_types.md)                                                 |
+| 03    |                             [Booleanos, Operadores, Data](./03_Day_Booleans_operators_date/03_booleans_operators_date.md)                                |
+| 04    |                                            [Condicionais](./04_Day_Conditionals/04_day_conditionals.md)                                                  |
+| 05    |                                                     [Arrays](./05_Day_Arrays/05_day_arrays.md)                                                           |
+| 06    |                                                       [Loops](./06_Day_Loops/06_day_loops.md)                                                            |
+| 07    |                                                 [Funções](./07_Day_Functions/07_day_functions.md)                                                        |
+| 08    |                                                    [Objetos](./08_Day_Objects/08_day_objects.md)                                                         |
+| 09    |                             [Higher Order Functions](./09_Day_Higher_order_functions/09_day_higher_order_functions.md)                                   |
+| 10    |                                           [Sets and Maps](./10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md)                                                |
+| 11    |                      [Destructuring and Spreading](./11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)                           |
+| 12    |                                  [Expressões Regulares](./12_Day_Regular_expressions/12_day_regular_expressions.md)                                      |
+| 13    |                             [Método Console Objeto](./13_Day_Console_object_methods/13_day_console_object_methods.md)                                    |
+| 14    |                                         [Tratamento de Errors](./14_Day_Error_handling/14_day_error_handling.md)                                         |
+| 15    |                                                    [Classes](./15_Day_Classes/15_day_classes.md)                                                         |
+| 16    |                                                        [JSON](./16_Day_JSON/16_day_json.md)                                                              |
+| 17    |                                            [Armazenamento na Web](./17_Day_Web_storages/17_day_web_storages.md)                                          |
+| 18    |                                                  [Promises](./18_Day_Promises/18_day_promises.md)                                                        |
+| 19    |                                                   [Closure](./19_Day_Closures/19_day_closures.md)                                                        |
 | 20    |                                  [Escrevendo Código Limpo](./20_Day_Writing_clean_codes/20_day_writing_clean_codes.md)                                   |
-| 21    |                                                          [DOM](./21_Day_DOM/21_day_dom.md)                                                          |
-| 22    |                            [Manipulando DOM Objetos](./22_Day_Manipulating_DOM_object/22_day_manipulating_DOM_object.md)                            |
-| 23    |                                        [Event Listeners](./23_Day_Event_listeners/23_day_event_listeners.md)                                        |
-| 24    |                             [Mini Projeto: Sistema Solar](./24_Day_Project_solar_system/24_day_project_solar_system.md)                              |
-| 25    | [Mini Projeto: Visualização de Dados de Paises do mundo](./25_Day_World_countries_data_visualization_1/25_day_world_countries_data_visualization_1.md) |
+| 21    |                                                          [DOM](./21_Day_DOM/21_day_dom.md)                                                               |
+| 22    |                            [Manipulando DOM Objetos](./22_Day_Manipulating_DOM_object/22_day_manipulating_DOM_object.md)                                 |
+| 23    |                                        [Event Listeners](./23_Day_Event_listeners/23_day_event_listeners.md)                                             |
+| 24    |                             [Mini Projeto: Sistema Solar](./24_Day_Project_solar_system/24_day_project_solar_system.md)                                  |
+| 25    | [Mini Projeto: Visualização de Dados de Paises do mundo](./25_Day_World_countries_data_visualization_1/25_day_world_countries_data_visualization_1.md)   |
 | 26    | [Mini Projeto: Visualização de Dados de Paises do mundo 2](./26_Day_World_countries_data_visualization_2/26_day_world_countries_data_visualization_2.md) |
-| 27    |                             [Mini Projeto: Portfólio](./27_Day_Mini_project_portfolio/27_day_mini_project_portfolio.md)                             |
-| 28    |                          [Mini Projeto: Leaderboard](./28_Day_Mini_project_leaderboard/28_day_mini_project_leaderboard.md)                          |
-| 29    |             [Mini Projeto: Caracteres Animados](./29_Day_Mini_project_animating_characters/29_day_mini_project_animating_characters.md)             |
-| 30    |                                     [Projetos Finais](./30_Day_Mini_project_final/30_day_mini_project_final.md)                                      |
+| 27    |                             [Mini Projeto: Portfólio](./27_Day_Mini_project_portfolio/27_day_mini_project_portfolio.md)                                  |
+| 28    |                          [Mini Projeto: Leaderboard](./28_Day_Mini_project_leaderboard/28_day_mini_project_leaderboard.md)                               |
+| 29    |             [Mini Projeto: Caracteres Animados](./29_Day_Mini_project_animating_characters/29_day_mini_project_animating_characters.md)                  |
+| 30    |                                     [Projetos Finais](./30_Day_Mini_project_final/30_day_mini_project_final.md)                                          |
 
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
@@ -76,39 +76,39 @@
 
 ![Trinta Dias de JavaScript](/images/day_1_1.png)
 
-- [30 dias de JavaScript](#30-days-of-javascript)
-- [📔 Dia 1](#-day-1)
-	- [Introdução](#introduction)
-	- [Requisitos](#requirements)
+- [30 dias de JavaScript](#30-dias-de-javascript)
+- [📔 Dia 1](#-dia-1)
+	- [Introdução](#introdução)
+	- [Requisitos](#requisitos)
 	- [Setup](#setup)
-		- [Instalação Node.js](#install-nodejs)
-		- [Navegador](#browser)
-			- [Instalando Google Chrome](#installing-google-chrome)
-			- [Abrindo Google Chrome Console](#opening-google-chrome-console)
-			- [Escrevendo Código no Browser Console](#writing-code-on-browser-console)
+		- [Instalação Node.js](#instalação-nodejs)
+		- [Navegador](#navegador)
+			- [Instalando Google Chrome](#instalando-google-chrome)
+			- [Abrindo o Google Chrome Console](#abrindo-o-google-chrome-console)
+			- [Escrevendo Código no console do Navegador](#escrevendo-código-no-console-do-navegador)
 				- [Console.log](#consolelog)
-				- [Console.log com Múltiplos Argumentos](#consolelog-with-multiple-arguments)
-				- [Comentários](#comments)
-				- [Sintaxe](#syntax)
-			- [Aritimética](#arithmetics)
-		- [Editor de Código](#code-editor)
-			- [Instalando Visual Studio Code](#installing-visual-studio-code)
-			- [Como usar o Visual Studio Code](#how-to-use-visual-studio-code)
-	- [Adicionando JavaScript na Web Page](#adding-javascript-to-a-web-page)
+				- [Console.log com Múltiplos Argumentos](#console.log-com-múltiplos-argumentos)
+				- [Comentários](#comentários)
+				- [Sintaxe](#sintaxe)
+			- [Aritimética](#aritimética)
+		- [Editor de Código](#editor-de-código)
+			- [Instalando o Visual Studio Code](#instalando-o-visual-studio-code)
+			- [Como usar o Visual Studio Code](#como-usar-o-visual-studio-code)
+	- [Adicionando JavaScript Para uma Página na Web ](#adicionando-javaScript-para-uma-página-na-web )
 		- [Script em Linha](#inline-script)
-		- [Script Interno](#internal-script)
-		- [Script Externo](#external-script)
-		- [Multiplo Scripts Externos](#multiple-external-scripts)
-	- [Introdução Tipo de Dados](#introduction-to-data-types)
-		- [Números](#numbers)
+		- [Script Interno](#script-interno)
+		- [Script Externo](#script-externo)
+		- [Múltiplos Scripts Externos](#múltiplos-scripts-externos)
+	- [Introdução a tipo de Dados](#introdução-a-tipo-de-dados)
+		- [Números](#números)
 		- [Strings](#strings)
 		- [Booleanos](#booleans)
 		- [Undefined](#undefined)
 		- [Null](#null)
-	- [Verificando Tipo de Dados](#checking-data-types)
-	- [Novamente Comentarios](#comments-again)
-	- [Variáveis](#variables)
-- [💻 Dia 1: Exercícios](#-day-1-exercises)
+	- [Verificando Tipos de Dados](#verificando-tipos-de-dados)
+	- [Comentários novamente](#comentários-novamente)
+	- [Variáveis](#variáveis)
+- [💻 Dia 1: Exercícios](#-dia-1-exercícios)
 
 # 📔 Dia 1
 
@@ -135,7 +135,7 @@ Sem conhecimentos prévios de programação é exigido para seguir este desafio.
 
 Eu acredito que voce tem a motivação e o forte desejo de ser um desenvolvedor, um computador e internet. Se voce tem isso, então você tem tudo para iniciar.
 
-## Instalando Node.js
+## Instalação Node.js
 
 Você pode não precisar do Node.js agora mas você precisará mais tarde. Instalação do [node.js](https://nodejs.org/en/).
 
@@ -248,7 +248,7 @@ Nós podemos adicionar comentários para nosso código. Comentários são import
 
 Linguagens de programação são similares com a linguagem humana. Portugês ou qualquer outra linguagem usa palavras, frases, orações, períodos, e outras mais para criar uma mensagem com significado. A definição em Português de sintaxe é _ Estrutura essencial para que frases, orações e períodos façam sentido e sejam de fácil compreensão por parte do leitor_. A definição técnica é a estrutura de declarações em uma linguagem de computador. Linguagens de programação tem sintaxes. JavaScript é uma linguagem de programação como outras linguagens de programação tem sua própria sintaxe. Se nós nao escrevermos uma sintaxe que JavaScript entenda, diferentes tipos de errors aparecerá. Nós iremos explorar diferentes tipos de errors no JavaScript depois. Por enquanto, vamos ver sintaxes de errors.
 
-![Error](images/raising_syntax_error.png)
+![Error](/images/raising_syntax_error.png)
 
 Eu fiz uma confusão proposital. Como resultado, criou vários errors. Na realidade, a sintaxe é muito informativa. Informa quais tipos de errors foi feito. lendo  as mensagens do feedback de error, nós podemos corrigir a sintaxe e resolver o problema. O processo de identificar e remover errors de um programa é chamado de Debugging. Vamos resolver os errors:
 
@@ -296,7 +296,7 @@ Visual Studio Code é editor de texto open-source muito popular. Eu poderia reco
 
 Se você instalou o Visual Studio Code, Vamos começar usando-o.
 
-#### Como Usar Visual Studio Code
+#### Como Usar o Visual Studio Code
 
 Abra o Visual Studio Code clicando duas vezes com o mouse no ícone. Quando abrir, você terá esta interface. Tente interagir com os ícones rotulados.
 
@@ -424,7 +424,7 @@ Scripts Externo no _body_:
 
 Abra o console do navegador para ver o output do `console.log()`.
 
-### Múltiplos Scripts Externo
+### Múltiplos Scripts Externos
 
 Nós tambem podemos colocar o link de vários arquivos externos de JavaScript em uma página web.
 Crie um `helloworld.js` documento dentro da pasta 30DaysOfJS e escreva o seguinte código.
@@ -454,7 +454,7 @@ _Seu arquivo main.js deve estar abaixo de todos os outros scripts_. E isto é mu
 
 Em JavaScript e tambem em outras linguagens de programação, existem vários tipos de dados. Os seguintes são tipos de dados primitivos do JavaScript: _String, Number, Boolean, undefined, Null_, and _Symbol_.
 
-### Number
+### Números
 
 - Integers: Inteiros (Negativo, zero e positivos) números
 Examplo:
@@ -649,7 +649,7 @@ Quando você executa o arquivo _index.html_ na pasta dia-1 você deve conseguir 
 
 ![Day one](/images/day_1.png)
 
-🌕 Você é incrivel! Você acaba de completar o desafio do dia 1 e você está no seu caminho para a grandeza. Agora faça alguns exercícios para seu cérebro e músculos.
+🌕 Você é incrivel! Você acabou de completar o desafio do dia 1 e você está no seu caminho para o sucesso. Agora faça alguns exercícios para seu cérebro e músculos.
 
 # 💻 Dia 1: Exercícios
 
@@ -671,4 +671,4 @@ You are 30 years old.
 
 🎉 PARABÉNS ! 🎉
 
-[Dia 2 >>](./02_Day_Data_types/02_day_data_types.md)
+[Dia 2 >>](./Dia_02_Tipos_Dados/dia_02_tipos_dados.md)
