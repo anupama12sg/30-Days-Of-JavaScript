@@ -369,7 +369,9 @@ console.log(numbers.length) // -> 5 is the size of the array
 
 #### Getting index an element in arr array
 
-indexOf:To check if an item exist in an array. If it exists it returns the index else it returns -1.
+indexOf: answers "Where is this thing/item in the list?"
+
+It is a way to find the position of something (like a word or a letter) inside a array (like a sentence or a word). If it exists it returns the index else it returns -1.
 
 ```js
 const numbers = [1, 2, 3, 4, 5]
